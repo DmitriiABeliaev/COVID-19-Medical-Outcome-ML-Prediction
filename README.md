@@ -34,7 +34,7 @@ Developed and evaluated four machine learning models:
 - Random Forest achieved the best F1-scores and accuracy with minimal overfitting.
 - Class distributions were balanced post-SMOTENC application.
 - Models demonstrated robust performance even on unseen (unlabeled) data.
-- For more details of our detailed work process and finding check report.pdf
+- For more details of our work process and finding check report.pdf
 
 ## Team Contributions
 - Dmitrii Beliaev
