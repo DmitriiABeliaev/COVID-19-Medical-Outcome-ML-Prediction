@@ -10,6 +10,7 @@ Analyzed incomplete COVID-19 datasets across continents to develop predictive mo
 - **Feature Engineering:** Created meaningful features such as expected mortality rate.
 - **Dataset Merging:** Combined location and patient outcome datasets, aggregating duplicates.
 - **Class Balancing:** Applied SMOTENC oversampling to address class imbalance in target variables.
+
 Ex: Before and After the Class Balancing
 
 ![Image](https://github.com/user-attachments/assets/c49636e3-4696-4d97-b7a1-0441731c4050)
