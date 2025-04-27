@@ -37,6 +37,12 @@ Developed and evaluated four machine learning models:
 - Models demonstrated robust performance even on unseen (unlabeled) data.
 - For more details of our work process and finding check report.pdf
 
+## Build Instructions
+- Clone the Repository
+- Set Up a Python Environment (using venv or conda)
+- Install Required Packages (pip install -r requirements.txt)
+- Run the Code
+
 ## Team Contributions
 - Dmitrii Beliaev
 - Tristian Labanowich
