@@ -10,6 +10,9 @@ Analyzed incomplete COVID-19 datasets across continents to develop predictive mo
 - **Feature Engineering:** Created meaningful features such as expected mortality rate.
 - **Dataset Merging:** Combined location and patient outcome datasets, aggregating duplicates.
 - **Class Balancing:** Applied SMOTENC oversampling to address class imbalance in target variables.
+- Before and After the Class Balancing
+
+![Image](https://github.com/user-attachments/assets/c49636e3-4696-4d97-b7a1-0441731c4050)
 
 ## Model Development
 Developed and evaluated four machine learning models:
@@ -22,6 +25,8 @@ Developed and evaluated four machine learning models:
 - GridSearchCV for Logistic Regression, KNN, Gradient Boosting.
 - RandomizedSearchCV for Random Forest.
 
+![Image](https://github.com/user-attachments/assets/f612f9f3-ee8e-45a8-ba0e-673d6937e34a)
+
 **Cross-validation:**  
 - 5-Fold Cross Validation to assess model generalization and detect overfitting.
 
@@ -29,6 +34,7 @@ Developed and evaluated four machine learning models:
 - Random Forest achieved the best F1-scores and accuracy with minimal overfitting.
 - Class distributions were balanced post-SMOTENC application.
 - Models demonstrated robust performance even on unseen (unlabeled) data.
+- For more details of our detailed work process and finding check report.pdf
 
 ## Team Contributions
 - Dmitrii Beliaev
